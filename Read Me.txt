@@ -1,0 +1,12 @@
+License: Shareware "Long live tha Freebies"
+
+this is not the cleanest code, i did it in a hurry coz it was my final year project. I GOT A DISTINCTION FOR THIS!
+
+pliz notify me on any areas you feel should be cleaned up. robertdondo@yahoo.com or dondor@beer.com
+
+
+                                                                                            If you are a begginer, delete these files unless you are with your tutor.
+                                                                                            if you are anything else, goodluck
+NOtes;
+-->help files created using FastHelp
+-->db.mdb and help folder should be extracted to same folder as vbp
